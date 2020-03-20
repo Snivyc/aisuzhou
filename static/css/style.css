@@ -1,0 +1,32 @@
+#mapContainer {
+    width: 100%;
+    height: 100%;
+    float: left;
+    overflow: hidden;
+    margin: 0;
+}
+
+.layui-side-scroll{
+
+}
+
+
+
+
+
+
+.layui-layout-admin .layui-body {
+    top: 60px;
+    bottom: 0px;
+
+}
+
+.site-h1 {
+    margin-bottom: 20px;
+    line-height: 60px;
+    /*padding-bottom: 10px;*/
+    color: #393D49;
+    border-bottom: 1px solid #eee;
+    font-size: 28px;
+    font-weight: 300;
+}
